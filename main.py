@@ -1,4 +1,4 @@
-
+from sectret import password
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
@@ -10,6 +10,6 @@ if __name__ == '__main__':
     print_hi('Rachel')
 
     print("how are you doing?")
-    print("where do you live?")
+    print(password)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
